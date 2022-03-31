@@ -12,17 +12,17 @@ Snake game is a computer action and instant game which goals to control a snake 
  
 ## High Level Requirements:
 
-|  ID  |  Description  |   Status  |
-|  HLRO1  |  It ia a basic snake game which represent the basic code and logic. |  IMPLEMENTED  |
-|  HLRO2  |  It is played by a user for single player.  |  IMPLEMENTED  |
-|  HLRO3  |  when the snake is eat the fruit then it increae by length and score.   |  IMPLEMENTED |  
-|  HLRO4  |  Snake is collide the boundary then gave over. |  IMPLEMENTED  |
+- |  ID  |  Description  |   Status  |
+- |  HLRO1  |  It ia a basic snake game which represent the basic code and logic. |  IMPLEMENTED  |
+- |  HLRO2  |  It is played by a user for single player.  |  IMPLEMENTED  |
+- |  HLRO3  |  when the snake is eat the fruit then it increae by length and score.   |  IMPLEMENTED |  
+- |  HLRO4  |  Snake is collide the boundary then gave over. |  IMPLEMENTED  |
 
 ## Low Level Requirements:
 
-|  ID  |  Description  |  Status  |
-|  LLRO1  |  It is downloaded in any platfrom.  |  IMPLEMENTED  |
-|  LLRO2  |  Using Printf statement for avoid confusion.  |  IMPLEMENTED  
+- |  ID  |  Description  |  Status  |
+- |  LLRO1  |  It is downloaded in any platfrom.  |  IMPLEMENTED  |
+- |  LLRO2  |  Using Printf statement for avoid confusion.  |  IMPLEMENTED  
 
 ## Advantages
 
@@ -31,7 +31,7 @@ Snake game is a computer action and instant game which goals to control a snake 
 
 ## Disadvantages
 
--In this game there is no next level part, it going on constant again and again.
+- In this game there is no next level part, it going on constant again and again.
 - This game is a indoor game but it is affected to our eye if we are playing continuously.
 
 ## SWOT Analysis:
