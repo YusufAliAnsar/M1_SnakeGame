@@ -5,6 +5,9 @@ In this game score gives by these functions are aggregated by linear weighted su
 ## Codiga
 [![Code Grade](https://api.codiga.io/project/32355/score/svg)](https://app.codiga.io/public/project/32355/M1_SnakeGame/dashboard)
 
+## Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5fb5ded26fe54f39a82e9d8f10739786)](https://www.codacy.com/gh/YusufAliAnsar/M1_SnakeGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YusufAliAnsar/M1_SnakeGame&amp;utm_campaign=Badge_Grade)
+
 ## CPP check
 ![image](https://user-images.githubusercontent.com/102678112/161258861-897c0fa4-7d87-40a5-b10a-fee50be01f48.png)
 
