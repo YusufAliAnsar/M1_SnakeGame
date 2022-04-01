@@ -31,6 +31,6 @@ BADGES
 
 
 ## Reference
- GeekForGeeks
- Youtube C programming
- Tutorialpoints
+a) GeekForGeeks
+b) Youtube C programming
+c) Tutorialpoints
