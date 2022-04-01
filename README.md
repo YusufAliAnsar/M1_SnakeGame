@@ -24,3 +24,15 @@ In this game score gives by these functions are aggregated by linear weighted su
 
 ## Satic check
 ![image](https://user-images.githubusercontent.com/102678112/161259429-78a71f6e-6001-4e42-abcc-b960ea8b27a8.png)
+
+Folder Structure
+Folder	Description
+0_Certificates -	Certificates added
+1_Requirements -	Intro,Features,Requirements info,SWOT,4W’s,1H,Adv &Disadv
+2_Architecture -	Flowchart&behavioural diagram
+3_Implementations -	All code and documentation
+4_Test plan & Output -	Output with test plans and procedures
+5_Report	- Summarized report
+
+## Reference
+
