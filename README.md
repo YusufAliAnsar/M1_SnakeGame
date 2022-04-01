@@ -2,6 +2,9 @@
 Snake game is a computer action and instant game which goals to control a snake to move around a fruits. In this game it shows  the mathematical expression in addition.
 In this game score gives by these functions are aggregated by linear weighted sum, and the snake takes the action that leads to thr heighest score.
 
+## Codiga
+[![Code Grade](https://api.codiga.io/project/32355/score/svg)](https://app.codiga.io/public/project/32355/M1_SnakeGame/dashboard)
+
 ## CPP check
 ![image](https://user-images.githubusercontent.com/102678112/161258861-897c0fa4-7d87-40a5-b10a-fee50be01f48.png)
 
