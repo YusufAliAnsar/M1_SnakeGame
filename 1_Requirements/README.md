@@ -13,16 +13,16 @@ Snake game is a computer action and instant game which goals to control a snake 
 ## High Level Requirements:
 
 - |  ID  |  Description  |   Status  |
-- |  HLRO1  |  It ia a basic snake game which represent the basic code and logic. |  IMPLEMENTED  |
-- |  HLRO2  |  It is played by a user for single player.  |  IMPLEMENTED  |
-- |  HLRO3  |  when the snake is eat the fruit then it increae by length and score.   |  IMPLEMENTED |  
-- |  HLRO4  |  Snake is collide the boundary then gave over. |  IMPLEMENTED  |
+- |  HLR01  |  It ia a basic snake game which represent the basic code and logic. |  IMPLEMENTED  |
+- |  HLR02  |  It is played by a user for single player.  |  IMPLEMENTED  |
+- |  HLR03  |  when the snake is eat the fruit then it increae by length and score.   |  IMPLEMENTED |  
+- |  HLR04  |  Snake is collide the boundary then gave over. |  IMPLEMENTED  |
 
 ## Low Level Requirements:
 
 - |  ID  |  Description  |  Status  |
-- |  LLRO1  |  It is downloaded in any platfrom.  |  IMPLEMENTED  |
-- |  LLRO2  |  Using Printf statement for avoid confusion.  |  IMPLEMENTED  
+- |  LLR01  |  It is downloaded in any platfrom.  |  IMPLEMENTED  |
+- |  LLR02  |  Using Printf statement for avoid confusion.  |  IMPLEMENTED  
 
 ## Advantages
 
