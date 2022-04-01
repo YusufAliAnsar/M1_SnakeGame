@@ -4,6 +4,8 @@ In this game score gives by these functions are aggregated by linear weighted su
 
 ## Codiga
 [![Code Grade](https://api.codiga.io/project/32355/score/svg)](https://app.codiga.io/public/project/32355/M1_SnakeGame/dashboard)
+![Screenshot 2022-04-01 175802](https://user-images.githubusercontent.com/102678112/161263502-3f624877-1a9a-4c00-a809-d1e940f0a475.png)
+
 
 ## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5fb5ded26fe54f39a82e9d8f10739786)](https://www.codacy.com/gh/YusufAliAnsar/M1_SnakeGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YusufAliAnsar/M1_SnakeGame&amp;utm_campaign=Badge_Grade)
