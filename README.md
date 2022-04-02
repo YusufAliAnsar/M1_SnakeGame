@@ -28,6 +28,7 @@ BADGES
 
 ## Folder Structure
  ![Screenshot 2022-04-01 232948](https://user-images.githubusercontent.com/102678112/161317501-dc5ca05f-f839-4d87-9f17-f5121ec6724e.png)
+ 
 | Folder |   | Description   |
 
 | :-------- |  :-------------------------------- |
