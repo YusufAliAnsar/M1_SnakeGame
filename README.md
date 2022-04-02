@@ -21,7 +21,7 @@ BADGES
 ![image](https://user-images.githubusercontent.com/102678112/161259158-53426dd0-2dd2-4826-96f7-fdce25d45f42.png)
 
 ## Unit Test
-![image](https://user-images.githubusercontent.com/102678112/161259225-83a8db39-826b-49c9-a462-1412a0eb56e3.png)
+[![Unit testing](https://github.com/YusufAliAnsar/M1_SnakeGame/actions/workflows/main.yml/badge.svg)](https://github.com/YusufAliAnsar/M1_SnakeGame/actions/workflows/main.yml)
 
 ## Satic check
 ![image](https://user-images.githubusercontent.com/102678112/161259429-78a71f6e-6001-4e42-abcc-b960ea8b27a8.png)
