@@ -33,13 +33,13 @@ BADGES
 
 | :-------- |  :-------------------------------- |
 
-| 0_Certificates  |  Certificates added  |
+| 0_Certificates   |    Certificates added    |
  
-| 1_Requirements  |  Intro, Features, detailed requ irments info, SWOT, 4W's 1H, Adv & Disadv |
+| 1_Requirements   |    Intro, Features, detailed requ irments info, SWOT, 4W's 1H, Adv & Disadv   |
 
-| 2_Architecture  |  Flowchart & behavioural diagram |
+| 2_Architecture   |     Flowchart & behavioural diagram   |
 
-| 3_Implementation|  All code and documentation |
+| 3_Implementation |     All code and documentation        |
 
 | 4_Test plan & Output | Output with test plans and procedures |
 
