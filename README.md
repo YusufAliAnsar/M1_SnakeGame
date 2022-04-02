@@ -28,17 +28,28 @@ BADGES
 
 ## Folder Structure
  ![Screenshot 2022-04-01 232948](https://user-images.githubusercontent.com/102678112/161317501-dc5ca05f-f839-4d87-9f17-f5121ec6724e.png)
-| Folder |   | Description                       |
+| Folder |   | Description   |
+
 | :-------- |  :-------------------------------- |
-| 0_Certificates  |  Certificates added
-| 1_Requirements  |  Intro, Features, detailed requ irments info, SWOT, 4W's 1H, Adv & Disadv|
+
+| 0_Certificates  |  Certificates added  |
+ 
+| 1_Requirements  |  Intro, Features, detailed requ irments info, SWOT, 4W's 1H, Adv & Disadv |
+
 | 2_Architecture  |  Flowchart & behavioural diagram |
+
 | 3_Implementation|  All code and documentation |
+
 | 4_Test plan & Output | Output with test plans and procedures |
+
 | 5_Report |  Summarized Report |
 
 
 ## Reference
+
 a) GeekForGeeks
+
 b) Youtube C programming
+
 c) Tutorialpoints
+
