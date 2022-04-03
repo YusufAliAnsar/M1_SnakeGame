@@ -11,17 +11,13 @@ BADGES
 ## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5fb5ded26fe54f39a82e9d8f10739786)](https://www.codacy.com/gh/YusufAliAnsar/M1_SnakeGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YusufAliAnsar/M1_SnakeGame&amp;utm_campaign=Badge_Grade)
 
-## CPP check
-![image](https://user-images.githubusercontent.com/102678112/161258861-897c0fa4-7d87-40a5-b10a-fee50be01f48.png)
+## Unit Test
+[![Unit testing](https://github.com/YusufAliAnsar/M1_SnakeGame/actions/workflows/main.yml/badge.svg)](https://github.com/YusufAliAnsar/M1_SnakeGame/actions/workflows/main.yml)
 
-## Git Inspector
-![image](https://user-images.githubusercontent.com/102678112/161258993-1c36a383-149e-4bc2-8ff4-0e800af44bf3.png)
 
 ##  Static Analysis
 ![image](https://user-images.githubusercontent.com/102678112/161259158-53426dd0-2dd2-4826-96f7-fdce25d45f42.png)
 
-## Unit Test
-[![Unit testing](https://github.com/YusufAliAnsar/M1_SnakeGame/actions/workflows/main.yml/badge.svg)](https://github.com/YusufAliAnsar/M1_SnakeGame/actions/workflows/main.yml)
 
 ## Satic check
 ![image](https://user-images.githubusercontent.com/102678112/161259429-78a71f6e-6001-4e42-abcc-b960ea8b27a8.png)
